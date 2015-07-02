@@ -1,0 +1,5 @@
+mv moves a file or folder from one location to another. 
+
+the format for the command is:
+
+mv [file name] [location to move it to]
