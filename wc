@@ -1,0 +1,5 @@
+wc is a word count command. it can be used to count words, lines, characters, bytes, or all at once.
+
+the format for the wc command is:
+
+wc [option]
