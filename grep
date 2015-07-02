@@ -1,7 +1,0 @@
-grep is a commmand used to search within files for a specific string of characters. other commands can be piped to grep.
-
-there are multiple options for grep so that it can be used to search for different things.
-
-the format for the grep command is:
-
-grep [option] [string to search for]
